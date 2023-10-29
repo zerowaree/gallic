@@ -34,6 +34,6 @@ cls:
   int 0x10
   ret
 
-display db "si sigues a santichi en instagram te doy pavos en fornite", 0
+display db "ez lil bro", 0
 times 510 - {$ - $$} db 0
 dw 0xaa55
